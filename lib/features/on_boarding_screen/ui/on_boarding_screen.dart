@@ -28,7 +28,7 @@ class OnboardingScreen extends StatelessWidget {
                    child: Column(
                      crossAxisAlignment: CrossAxisAlignment.stretch,
                     children: [
-                      Text('Manage and schedule all of your medical appointments easily with Docdoc to get a new experience.' ,
+                      Text('Keep your plant in good health' ,
                       style: TextStyles.font13GrayRegular,
                       textAlign: TextAlign.center,),
                       SizedBox(height: 30.h,),
